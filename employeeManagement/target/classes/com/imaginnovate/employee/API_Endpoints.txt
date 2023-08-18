@@ -1,0 +1,19 @@
+
+
+********** Post API EndPoint **********
+                       
+http://localhost:8080/api/employee
+                       
+ {
+    "firstName" : "Lalitha",
+    "lastName" : "Tadi",
+    "email" : "lalithardy96@gmail.com",
+    "phoneNumber": ["9999999999","8888888888"],
+    "dOJ" : "2020-05-01",
+    "salaryPerMonth" : 200000.0
+}
+
+********** Get API EndPoint **********
+
+
+http://localhost:8080/api/employee/1
